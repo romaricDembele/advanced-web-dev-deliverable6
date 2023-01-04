@@ -1,5 +1,5 @@
 <script lang="ts">
-    import RegistrationForm from '../components/RgistrationForm.vue'
+    import RegistrationForm from '../components/RegistrationForm.vue'
 
 
     export default {
